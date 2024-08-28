@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "uthman";
+  src: url("/public/fonts/KFGQPC\ Uthman\ Taha\ Naskh\ Regular.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "uthman-taha";
+  src: url("/public/fonts/Uthman\ Taha\ Naskh.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "uthman-bold";
+  src: url("/public/fonts/KFGQPC\ Uthman\ Taha\ Naskh\ Bold.ttf")
+    format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "uthman-script";
+  src: url("/public/fonts/KFGQPC\ Uthmanic\ Script\ HAFS\ Regular.otf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "nazanin";
+  src: url("/public/fonts/Nazanin\ Normal.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
